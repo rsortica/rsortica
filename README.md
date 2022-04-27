@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on API and Frontend test scripts.
 - 🖥️ I’m currently learning Robotic Process Automation (RPA).
 -->
-## Oiii eu sou a Rose, criadora de conteúdo de programação e tecnologia!
+## Hi guys, welcome to my study space!
 <div align="center">
   <a href="https://github.com/rsortica">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rsortica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
