@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 ## Analista de Sistemas Especialista em Qualidade de Software e Automação de Testes
 
 
-Bem-vindo ao meu portfólio! Sou um desenvolvedora de software apaixonada por tecnologia e criar soluções. Com conhecimento em linguagens de programação como Python, Java e JavaScript, especializo-me no desenvolvimento de aplicações e na automação de testes para garantir a qualidade e a eficiência do software.
+Bem-vindo ao meu portfólio! 
+Sou uma desenvolvedora de software apaixonada por tecnologia e criar soluções. Com conhecimento em linguagens de programação como Python, Java e JavaScript, especializo-me no desenvolvimento de aplicações e na automação de testes para garantir a qualidade e a eficiência do software.
 
 ### Tecnologias e Competências:
 
