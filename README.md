@@ -6,7 +6,8 @@ Sou uma desenvolvedora de software apaixonada por tecnologia e criar soluções.
 
 ### Tecnologias e Competências:
 
-- 🔭 **Python, Java e JavaScript:** Desenvolvimento de aplicações e automações. Utilizo Python para scripts e soluções back-end, Java para aplicações corporativas e JavaScript para desenvolvimento front-end e interatividade web.
+- 🔭 **Python, Java e JavaScript:** Desenvolvimento de aplicações e automações.
+      Utilizo Python para scripts e soluções back-end, Java para aplicações corporativas e JavaScript para desenvolvimento front-end e interatividade web.
 
 - 🌱 **Testes Automatizados com Cypress:**  Implementação de testes end-to-end usando Cypress para garantir a integridade e a funcionalidade das aplicações. Minha abordagem focada em testes automatizados ajuda a identificar e corrigir problemas rapidamente, melhorando a confiabilidade do software.
 
@@ -49,14 +50,14 @@ Sou uma desenvolvedora de software apaixonada por tecnologia e criar soluções.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />  
 </div>
 
-##
+#
 
  <div> 
    <a href = "mailto:kodcore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rosenirodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ##
+ #
  
- ![Snake animation](https://github.com/rsortica/rsortica/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rsortica/rsortica/blob/main/output/github-contribution-grid-snake.svg)
  
 </div>
