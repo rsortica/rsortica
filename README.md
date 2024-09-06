@@ -1,13 +1,3 @@
-<!--
-**rsortica/rsortica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-  <h3>I'm automated test developer</h3>
-
-- 🔭 I’m currently working on API and Frontend test scripts.
-- 🖥️ I’m currently learning Robotic Process Automation (RPA).
--->
 ## Analista de Sistemas Especialista em Qualidade de Software e Automação de Testes
 
 
@@ -39,36 +29,34 @@ Sou uma desenvolvedora de software apaixonada por tecnologia e criar soluções.
   <a href="https://github.com/rsortica">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rsortica&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsortica&layout=compact&langs_count=7&theme=blue-green"/>
-  
 </div>
 
-<div style="display: inline_block"><br>
-
-<!--
-  <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">          
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">  
-  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
-  <img align="center" alt="Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  -->
-  
+#
 ## Languages and Tools:
-  
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<div style="text-align:left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="40" width="40" alt="javascript logo" />          
+  <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" width="40" alt="selenium logo"  />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40" alt="postman logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40" alt="androidstudio logo"  />          
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="jenkins logo" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker logo"  /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo" />  
 </div>
-<br/>
 
 ##
 
  <div> 
-  <a href="https://www.linkedin.com/in/rosenirodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:kodcore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/rosenirodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ##
  
-  ![Snake animation](https://github.com/rsortica/rsortica/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rsortica/rsortica/blob/output/github-contribution-grid-snake.svg)
  
 </div>
