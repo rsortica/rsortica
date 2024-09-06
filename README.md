@@ -8,23 +8,27 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on API and Frontend test scripts.
 - 🖥️ I’m currently learning Robotic Process Automation (RPA).
 -->
-## Hi guys, welcome to my study space!
+## Analista de Sistemas Especialista em Qualicade de Software e Automação de Testes
 
-- 🔭 I’m currently working on **Cypress, K6**
 
-- 🌱 I’m currently learning **new automation techniques**
+Bem-vindo ao meu portfólio! Sou um desenvolvedora de software apaixonada por tecnologia e criar soluções. Com conhecimento em linguagens de programação como Python, Java e JavaScript, especializo-me no desenvolvimento de aplicações e na automação de testes para garantir a qualidade e a eficiência do software.
 
-- 👯 I’m looking to collaborate on **Cypress, Selenium, Playwright**
+### Tecnologias e Competências:
 
-- 👨‍💻 All of my projects are available at [https://github.com/rsortica](https://github.com/rsortica)
+- 🔭 **Python, Java e JavaScript:** Desenvolvimento de aplicações e automações. Utilizo Python para scripts e soluções back-end, Java para aplicações corporativas e JavaScript para desenvolvimento front-end e interatividade web.
 
-- 📝 I regularly write articles on [https://medium.com/@rsortica](https://medium.com/@rsortica)
+- 🌱 **Testes Automatizados com Cypress:**  Implementação de testes end-to-end usando Cypress para garantir a integridade e a funcionalidade das aplicações. Minha abordagem focada em testes automatizados ajuda a identificar e corrigir problemas rapidamente, melhorando a confiabilidade do software.
 
-- 💬 Ask me about **Testing Process,Cypress,Selenium,Framework SetUp, CI/CD**
+- 👯 **Integrações com Banco de Dados:** Experiência na integração de sistemas com bancos de dados relacionais, garantindo que a aplicação interaja de maneira eficiente e segura com a camada de persistência de dados.
 
-- 📫 You can reach me at **kodcore@gmail.com**
+- 👨‍💻 **Integração Contínua (CI/CD):** Implementação de pipelines de integração contínua e entrega contínua (CI/CD) usando GitHub Actions. Automatizo o processo de build, testes e deploy para acelerar o ciclo de desenvolvimento e melhorar a consistência do código.
 
-- ⚡ Fun fact **I love to ride to motorcycle**
+  📝 Meu objetivo é combinar essas habilidades para entregar soluções de alta qualidade que atendam às necessidades dos usuários e às metas de negócios. 
+
+  💬 Explore meus projetos e veja como minhas competências podem agregar valor ao seu próximo desafio.
+
+
+  ⚡ Fun fact **I love riding my motorcycle**
 
 
 ##
