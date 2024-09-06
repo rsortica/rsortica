@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on API and Frontend test scripts.
 - 🖥️ I’m currently learning Robotic Process Automation (RPA).
 -->
-## Analista de Sistemas Especialista em Qualicade de Software e Automação de Testes
+## Analista de Sistemas Especialista em Qualidade de Software e Automação de Testes
 
 
 Bem-vindo ao meu portfólio! Sou um desenvolvedora de software apaixonada por tecnologia e criar soluções. Com conhecimento em linguagens de programação como Python, Java e JavaScript, especializo-me no desenvolvimento de aplicações e na automação de testes para garantir a qualidade e a eficiência do software.
