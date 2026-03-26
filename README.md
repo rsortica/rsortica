@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu portfolio! ✨
 
-### Sou a Rô, Analista de Sistemas Especialista em Qualidade de Software e Automação de Testes 🌠
+### Sou a Rô, Analista de Sistemas com Especialização em Qualidade de Software e Automação de Testes 🌠
 
 
 Sou uma desenvolvedora de software apaixonada por tecnologia e criar soluções, com conhecimento em linguagens de programação como Python, Java e JavaScript, especializando-me no desenvolvimento de automações de sistemas e testes para garantir a qualidade e a eficiência do software.
